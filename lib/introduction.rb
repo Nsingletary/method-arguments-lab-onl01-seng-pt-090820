@@ -12,5 +12,5 @@ def introduction_with_language(name, language)
 end
 
 
-introduction_with_language ("Dan", "Ember.js")
+introduction_with_language ("Dan", "Ember.js.")
 # > Hi, my name is Dan and I am learning to program in Ember.js.
